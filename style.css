@@ -1,0 +1,16 @@
+hr{
+    color:#fff;
+}
+h1{
+    color:#fff;
+    text-align: center;
+    font-family: 'helvetica', sans-serif;
+    font-size: 48px;
+}
+h2{
+    color:yellow;
+}
+a{
+    color:aqua;
+    text-decoration: none;
+}
